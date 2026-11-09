@@ -171,13 +171,13 @@ Screenshots of the actual application will be added here.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/likhithkg-guru/Explainable-credit-default-prediction.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd YOUR_REPOSITORY_FOLDER
+cd credit_default_project
 ```
 
 ### 3. Create a virtual environment
